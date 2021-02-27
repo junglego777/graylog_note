@@ -9,3 +9,7 @@ Graylog 学习笔记
 ## GrayLog 的更大设置
 
 ![GrayLog 的最大设置](./pic/Graylog-Bigger-production-setup.png)
+
+## 使用前的计划
+
+![GrayLog 使用前的计划](./pic/Graylog-plan.png)
